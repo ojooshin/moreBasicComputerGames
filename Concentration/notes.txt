@@ -1,0 +1,7 @@
+MS Basic is really ugly
+
+
+Prompts used:
+declaration of constant array of strings in c header file
+Why does this visual basic code use carriage return when printing a bunch of line breaks and H's and I's and X's?
+
